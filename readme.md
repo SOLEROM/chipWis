@@ -15,7 +15,7 @@
 
 
 ## sw
-* [softwere](softwere.md)
+* [software](software.md)
 
 
 ## attacks

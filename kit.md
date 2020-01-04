@@ -2,15 +2,16 @@
 
 * ChipWhisperer CW1200 Capture Box
 
+
 ## targets
 
-* UFO Baseboard (CW308)
-* Target Board with Microchip/Atmel ATXMEGA 8-bit MCU (CW308T-XMEGA)
-* Target Board with STMicroelectronics STM32F3 Arm Cortex-M3 MCU (CW308T-STM32F3)
+* UFO Baseboard [CW308](./targets/ufo_cw308.md)
+* Target Board with Microchip/Atmel ATXMEGA 8-bit MCU [CW308T-XMEGA](./targets/CW308T_XMEGA.md)
+* Target Board with STMicroelectronics STM32F3 Arm Cortex-M3 MCU [CW308T-STM32F3](./targets/CW308T_STM32F3.md)
 
-* Advanced Breakout Board (NAE-CW506)
+* Advanced Breakout Board [NAE-CW506](./targets/NAE_CW506.md)
 
-* Generic Prototyping Target Board (CW308T)
+* Generic Prototyping Target Board [CW308T](./targets/CW308T.md)
 * Unpopulated STM32F Target Board (CW308T-STM32F)
 
 
