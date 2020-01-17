@@ -6,7 +6,7 @@
 
 ## hw
 * [kit](kit.md) 
-* [targets](targets.md)
+* [targets](targets/readme.md)
 	* [CW308T](targets/CW308T.md)
 	* [STM32F3](targets/CW308T_STM32F3.md)
 	* [XMEGA](targets/CW308T_XMEGA.md)
@@ -23,6 +23,12 @@
 	* [types](attack/attacksTypes.md)
 
 ## practice
+
+* [power](practice_power/readme.md)
+	* [diffPowerAnal](practice_power/diffPowerAnal.md)
+	* [simpPowerAnal](practice_power/simplePowerAnal.md)
+
+
 * [aes128](practice_AES128/readme.md)
 	* [tutorials](practice_AES128/tutorials.md)
 
