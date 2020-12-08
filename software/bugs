@@ -1,0 +1,34 @@
+
+# 
+
+```
+[CONT]root@vostro14:/chipWS/cwGIT$ pip3 install -r jupyter/requirements.txt --user
+
+
+
+    x86_64-linux-gnu-gcc -pthread -DNDEBUG -g -fwrapv -O2 -Wall -g -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2 -fPIC -Iimagecodecs -I/usr/include/python3.6m -I/root/.local/lib/python3.6/site-packages/numpy/core/include -c imagecodecs/_aec.c -o build/temp.linux-x86_64-3.6/imagecodecs/_aec.o
+    In file included from /root/.local/lib/python3.6/site-packages/numpy/core/include/numpy/ndarraytypes.h:1832:0,
+                     from /root/.local/lib/python3.6/site-packages/numpy/core/include/numpy/ndarrayobject.h:12,
+                     from /root/.local/lib/python3.6/site-packages/numpy/core/include/numpy/arrayobject.h:4,
+                     from imagecodecs/_aec.c:598:
+    /root/.local/lib/python3.6/site-packages/numpy/core/include/numpy/npy_1_7_deprecated_api.h:17:2: warning: #warning "Using deprecated NumPy API, disable it with " "#define NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" [-Wcpp]
+     #warning "Using deprecated NumPy API, disable it with " \
+      ^~~~~~~
+    imagecodecs/_aec.c:602:10: fatal error: libaec.h: No such file or directory
+     #include "libaec.h"
+              ^~~~~~~~~~
+    compilation terminated.
+    error: command 'x86_64-linux-gnu-gcc' failed with exit status 1
+    
+    ----------------------------------------
+Command "/usr/bin/python3 -u -c "import setuptools, tokenize;__file__='/tmp/pip-build-mb9sb1ln/imagecodecs/setup.py';f=getattr(tokenize, 'open', open)(__file__);code=f.read().replace('\r\n', '\n');f.close();exec(compile(code, __file__, 'exec'))" install --record /tmp/pip-v23njged-record/install-record.txt --single-version-externally-managed --compile --user --prefix=" failed with error code 1 in /tmp/pip-build-mb9sb1ln/imagecodecs/
+
+
+
+fix?
+
+sudo apt-get install -y libaec-dev
+
+
+```
+

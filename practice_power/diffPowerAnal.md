@@ -1,6 +1,5 @@
 # diffPowerAnal
 
-## Hamming Weight Measurement
-* assumed relationship between power on the data lines and measured power consumption
-* prove:
-
+* [about hammingWeight](hammingWeight.md)
+* [hammingWeight mesure](hammingWeight_mesure.md)
+* [hammingWeight swings](hammingWeight_swings.md)

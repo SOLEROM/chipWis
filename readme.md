@@ -25,8 +25,8 @@
 ## practice
 
 * [power](practice_power/readme.md)
-	* [diffPowerAnal](practice_power/diffPowerAnal.md)
 	* [simpPowerAnal](practice_power/simplePowerAnal.md)
+	* [diffPowerAnal](practice_power/diffPowerAnal.md)
 
 
 * [aes128](practice_AES128/readme.md)
