@@ -5,7 +5,10 @@
 * [buzz](buzz.md)
 
 ## hw
-* [kit](kit.md) 
+* [kits](kits/readme.md) 
+  * [cw1200](kits/CW1200.md)
+
+  
 * [targets](targets/readme.md)
 	* [CW308T](targets/CW308T.md)
 	* [STM32F3](targets/CW308T_STM32F3.md)
@@ -13,6 +16,9 @@
 	* [CW506](targets/NAE_CW506.md)
 	* [cw308](targets/ufo_cw308.md)
 
+## datasheets
+
+* [list](datasheets/readme.md)
 
 ## sw
 * [software](software/readme.md)
