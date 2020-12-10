@@ -7,4 +7,8 @@
 
 * [simplePowerAnal](simplePowerAnal.md)
 * [Differential Power Analysis](diffPowerAnal.md)
+* [aes](aes.md)
+* [hammingWeight](hammingWeight.md)
+* [hammingWeight_mesure](hammingWeight_mesure.md)
+* [hammingWeight_swings](hammingWeight_swings.md)
 
